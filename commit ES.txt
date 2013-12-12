@@ -1,0 +1,251 @@
+﻿// History
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\History.aspx.cs
+history-icon.gif
+
+// Clients
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\Programs\ClientMain.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\Programs\Client\ClientInfo.aspx.cs
+
+// Escrows
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\Programs\EscrowMain.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\Programs\Escrow\PreReviewEscrow.aspx.cs
+
+
+///////////////////////////////////////////////////////////////////
+// 07-10-2013
+///////////////////////////////////////////////////////////////////
+
+// Account
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\Programs\Account\AccountInfo.aspx.cs
+
+// Jobs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\Programs\Job\JobCostApproval.aspx.cs
+
+// Resales
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\Programs\Resale\ReviewResale.aspx.cs
+
+// Utilities
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\ClientInfo.aspx.cs
+
+///////////////////////////////////////////////////////////////////
+// 07-17-2013
+///////////////////////////////////////////////////////////////////
+
+// History
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\history-icon.gif
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\History.aspx
+
+// Manager
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\Main.aspx.cs
+Delete file History & icon
+
+// Client
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Client\Main.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Client\Programs\Profile\ProfileInfo.aspx.cs
+
+// Funding
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Client\Programs\Funding\Discloser.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Client\Programs\Funding\ReviewFunding.aspx.cs
+
+// Contracts
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Client\Programs\Contract\ContractApproval.aspx.cs
+
+// Escrow
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\EscrowReport.ascx.cs
+
+// Account
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Client\Programs\Account\AccountInfo.aspx.cs
+
+// Resales
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Client\Programs\Resale\ResaleNotice.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Client\Programs\Resale\ResaleReport.aspx.cs
+
+///////////////////////////////////////////////////////////////////
+// 07-19-2013 (Broker)
+///////////////////////////////////////////////////////////////////
+
+// Main
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Broker\Main.aspx.cs
+
+// Profile
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Broker\Programs\Profile\ProfileInfo.aspx.cs
+
+// Client
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Broker\Programs\Client\ClientInfo.aspx.cs
+
+// Vendors
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\ESManInfo.aspx.cs
+
+// Funding
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Broker\Programs\Funding\ReviewFunding.aspx.cs
+
+// Contract
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Broker\Programs\Contract\ContractReport.aspx.cs
+
+// Update lai Account cho Client
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Client\Programs\Account\AccountInfo.aspx.cs
+
+// Account
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Broker\Programs\Account\AccountInfo.aspx.cs
+
+// Job
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Broker\Programs\Job\JobReport.aspx.cs
+
+///////////////////////////////////////////////////////////////////
+// 07-20-2013 (Consultant) (Update len server KH bat dau tu day)
+///////////////////////////////////////////////////////////////////
+
+// Main
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Consultant\Main.aspx.cs
+
+// Profile
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Consultant\Programs\Profile\ProfileInfo.aspx.cs
+
+// Client
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Consultant\Programs\Client\ClientInfo.aspx.cs
+
+// Vendor
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\ESManInfo.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\ClientInfo.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\BrokerInfo.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\EscrowInfo.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\ContractorInfo.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\VendorInfo.aspx.cs
+
+// Job
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Consultant\Programs\Job\JobCostApproval.aspx.cs
+
+///////////////////////////////////////////////////////////////////
+// 07-23-2013 (PropInstructor)
+///////////////////////////////////////////////////////////////////
+
+// Main
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\PropIns\Main.aspx.cs
+
+// History
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Coms\Website\Templating\ESHistory.cs (update)
+
+// Profile
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\PropIns\Programs\Profile\ProfileInfo.aspx.cs
+
+// Client
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\PropIns\Programs\Client\ClientInfo.aspx.cs
+
+// Vendor
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\ESManInfo.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\ContractorInfo.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\VendorInfo.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\BrokerInfo.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\ClientInfo.aspx.cs
+
+// Insuarance
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\PropIns\Programs\Insurance\ReviewEscrow.aspx.cs
+
+// Escrow (update them)
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\ContactInfo\EscrowInfo.aspx.cs
+
+///////////////////////////////////////////////////////////////////
+// 07-23-2013 (Attorney)
+///////////////////////////////////////////////////////////////////
+
+// History
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Coms\Website\Templating\ESHistory.cs
+
+// Main
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Attorney\Main.aspx.cs
+
+// Profile
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Attorney\Programs\Profile\ProfileInfo.aspx.cs
+
+// Client
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Attorney\Programs\Client\ClientInfo.aspx.cs
+
+// Funding
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Attorney\Programs\Funding\ReviewFunding.aspx.cs
+
+// Contract
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Attorney\Programs\Contract\ContractReport.aspx.cs
+
+// Account
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Attorney\Programs\Account\AccountInfo.aspx.cs
+
+// Job
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Attorney\Programs\Job\JobReport.aspx.cs
+
+// Resale
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Attorney\Programs\Resale\ResalePayoff.aspx.cs
+
+///////////////////////////////////////////////////////////////////
+// 07-23-2013 (Lender)
+///////////////////////////////////////////////////////////////////
+
+// History
+
+
+// Main
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Attorney\Main.aspx.cs
+
+// Profile
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Lender\Programs\Profile\ProfileInfo.aspx.cs
+
+// Client
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Lender\Programs\Client\ClientInfo.aspx.cs
+
+// Funding
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Lender\Programs\Funding\ReviewFunding.aspx.cs
+
+// Contract
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Lender\Programs\Contract\ContractReport.aspx.cs
+
+// Account
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Lender\Programs\Account\AccountInfo.aspx.cs
+
+// Job
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Lender\Programs\Job\JobReport.aspx.cs
+
+// Resale
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Lender\Programs\Resale\ResalePayoff.aspx.cs
+
+
+///////////////////////////////////////////////////////////////////
+// 08-06-2013 (Comment History Contractor)
+///////////////////////////////////////////////////////////////////
+
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Coms\Organ\Job\Entities\ESJobCostEntity.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Coms\Organ\Job\Internals\ESJobRevisionHistoryController.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Coms\Organ\Job\ESJobRevisionHistoryDataAccess.cs
+
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Common\Form\JobCostTrade.ascx.cs
+
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Contractor\Programs\JobCosts\JobRevisionHistory.aspx.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Contractor\Programs\JobCosts\JobCostTrades.aspx.cs
+(kem theo cac icon chung folder)
+
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Contractor\Main.aspx
+
+Note: khong dung storeprocerdure. Table: ESJosRevisionHistory
+
+
+///////////////////////////////////////////////////////////////////
+// 08-23-2013 (Search Es Manager)
+///////////////////////////////////////////////////////////////////
+
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Application\Manager\Programs\Search\ClientTreeView.aspx
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Coms\Organ\AdminUtil\ESAdminUtilDataHelper.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Coms\Organ\AdminUtil\Internals\ESAdminUtilDataController.cs
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Coms\Data\Helper\ESDHProfile.cs
+
+
+///////////////////////////////////////////////////////////////////
+// 08-23-2013 (Note - My Dashboard)
+///////////////////////////////////////////////////////////////////
+Folder: Dashboard in companent
+Folder: Dashboard in Manager/Dashboard
+D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\AjaxFunction\ajaxfunction.aspx
+Table Name SQL Server: ESDashboardNote
+
+///////////////////////////////////////////////////////////////////
+// 08-27-2013 (Property Ranking Bugs: 1. 1)
+///////////////////////////////////////////////////////////////////
+File: D:\Anphi\Equity\SVNEquity\trunk\ES Application Source\Coms\Website\Controls\ESFundingForm.ascx
+Note: /es/
